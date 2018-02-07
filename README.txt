@@ -1,0 +1,6 @@
+_includes：默认的在模板中可以引用的文件的位置
+_layouts：默认的公共页面的位置
+_posts：博客文章默认的存放位置
+.gitignore：git 将不管理这个文件中列出的匹配到的文件或文件夹
+_config.yml：关于jekyll模板引擎的配置文件
+index.html：默认的主页
